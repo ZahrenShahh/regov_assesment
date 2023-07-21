@@ -1,0 +1,7 @@
+{
+  "name": "ecomonei",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
